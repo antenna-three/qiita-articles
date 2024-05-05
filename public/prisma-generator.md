@@ -1,13 +1,13 @@
 ---
 title: Prismaジェネレーターは簡単に作れる
 tags:
-- 'JavaScript'
-- 'Node.js'
-- 'TypeScript'
-- 'Prisma'
+  - JavaScript
+  - Node.js
+  - TypeScript
+  - prisma
 private: false
-updated_at: '2024-05-05T20:00:00'
-id: null
+updated_at: '2024-05-05T19:58:55+09:00'
+id: 38ea8ecaf9faf9738121
 organization_url_name: null
 slide: false
 ignorePublish: false
